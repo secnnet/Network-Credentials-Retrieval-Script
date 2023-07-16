@@ -12,7 +12,7 @@ This script retrieves the network credentials of the current user without prompt
 1. Open PowerShell on your Windows machine.
 2. Navigate to the directory where the script is saved.
 3. Run the script by executing the following command:
-  `.\Get-NetworkCredentials.ps1`
+  `.\NetworkCredentialsRetrievalScript.ps1`
 
 ## Script Explanation
 
