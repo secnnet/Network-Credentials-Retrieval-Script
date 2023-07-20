@@ -5,7 +5,7 @@ This script retrieves the network credentials of the current user without prompt
 ## Prerequisites
 
 - Windows operating system
-- PowerShell (minimum version X.X)
+- PowerShell 
 
 ## Usage
 
